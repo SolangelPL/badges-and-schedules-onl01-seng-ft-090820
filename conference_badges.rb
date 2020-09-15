@@ -24,8 +24,8 @@ def printer(attendees)
  puts badge_name
  end
  assign_rooms(attendees).each do |rooms|
-puts rooms
-end 
+ puts rooms
+ end 
 end 
   
 
