@@ -24,7 +24,6 @@ def printer(attendees)
  #puts badge_name
  end
  #puts array_of_rooms = assign_rooms(attendees).each do |rooms|
- end
 end 
   
 
